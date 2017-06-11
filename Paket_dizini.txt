@@ -54,7 +54,7 @@ asn1	Package asn1 implements parsing of DER-encoded ASN.1 data structures, as de
 base32	Package base32 implements base32 encoding as specified by RFC 4648.
 base64	Package base64 implements base64 encoding as specified by RFC 4648.
 binary	Package binary implements simple translation between numbers and byte sequences and encoding and decoding of varints.
-csv	Package csv reads and writes comma-separated values (CSV) files.
+csv	Package csv reads and writes comma-separated values (CSV) files. 
 gob	Package gob manages streams of gobs - binary values exchanged between an Encoder (transmitter) and a Decoder (receiver).
 hex	Package hex implements hexadecimal encoding and decoding.
 json	Package json implements encoding and decoding of JSON as defined in RFC 4627.
